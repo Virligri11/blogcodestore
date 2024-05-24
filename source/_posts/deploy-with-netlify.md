@@ -2,7 +2,6 @@
 title: deploy with netlify
 date: 2024-05-24 15:30:15
 tags: Coding
-password: 12345
 describtion: problem that meet when deploy on netlify. About the "submodules"
 ---
 

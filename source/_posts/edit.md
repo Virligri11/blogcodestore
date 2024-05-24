@@ -2,7 +2,6 @@
 title: Hexo-Next 魔改记录
 date: 
 tags: editing
-password: 12345
 description: change blog model
 ---
 
