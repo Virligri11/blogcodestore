@@ -1,0 +1,30 @@
+// Header Section
+// --------------------------------------------------
+.headband {
+  background: $headband-bg;
+  height: $headband-height;
+  opacity:0.8
+  +tablet-mobile() {
+    display: none;
+  }
+}
+
+.site-brand-container {
+  display: flex;
+  flex-shrink: 0;
+  padding: 0 10px;
+  opacity:0.7
+}
+
+.use-motion {
+  .column, .site-brand-container .toggle {
+    opacity: 0;
+  }
+}
+
+@import 'site-meta';
+@import 'site-nav';
+@import 'menu';
+
+@import 'bookmark';
+@import 'github-banner';

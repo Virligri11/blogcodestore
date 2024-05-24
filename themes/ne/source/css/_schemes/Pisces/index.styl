@@ -1,0 +1,30 @@
+@import '_layout';
+@import '_header';
+@import '_menu';
+@import '_sub-menu';
+@import '_sidebar';
+
+.main-inner {
+  background: background: rgba(0,0,0,0.7);;
+  box-shadow: $box-shadow-inner;
+  padding: $content-desktop-padding;
+  margin-top:30px;
+  +tablet-mobile() {
+    padding: 20px;
+  }
+}
+
+// Sub-menu(s).
+.sub-menu {
+  border-bottom: 1px solid $table-border-color;
+}
+
+.post-block:first-of-type {
+  padding-top: 40px;
+}
+
+.pagination {
+  +mobile() {
+    margin-bottom: 10px;
+  }
+}
