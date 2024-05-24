@@ -2,6 +2,7 @@
 title: deploy with netlify
 date: 2024-05-24 15:30:15
 tags: Coding
+password: 12345
 describtion: problem that meet when deploy on netlify. About the "submodules"
 ---
 
@@ -20,4 +21,4 @@ rm -rf .git/modules/path/to/submodule
 git rm -f path/to/submodule
 ```
 
-If the file still exist. I suggest that moving the file to other folder then delete the `.git` file and add it again.
+If the file still exist. I suggest that moving the file to other folder then delete the `.git` file and add it to thethemes again.
