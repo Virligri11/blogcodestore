@@ -5,6 +5,7 @@ tags: Coding
 describtion: problem that meet when deploy on netlify. About the "submodules"
 ---
 
+# 1
 To making the submodules work need to remove all the `.git` files in the site that git can not detect the use of submodules of other model.
 
 
