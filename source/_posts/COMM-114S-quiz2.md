@@ -1,3 +1,11 @@
+---
+title: COMM 114S
+date: 
+tags: Stanford-Summer
+# description: 
+---
+
+
 ## What are the cognitive, emotional, behavioral, and physical  
 characteristics of the following mental health conditions?  
 - Behavior addictions
