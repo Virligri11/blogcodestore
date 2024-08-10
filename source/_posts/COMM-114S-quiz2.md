@@ -1,5 +1,5 @@
 ---
-title: COMM 114S
+title: COMM 114S Quiz2 Prepare
 date: 
 tags: Stanford-Summer
 # description: 
