@@ -2,7 +2,7 @@
 title: COMM 114S Quiz2 Prepare
 date: 
 tags: Stanford-Summer
-# description: 
+description: The comm 114s of Technology of wellbeing Quiz 2 prepare about from L5-L9
 ---
 
 
